@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"广告投放专家：投放策略 / 素材清单 / 落地页一致性 / 数据复盘框架（方法论，不承诺ROI）","name":"lhg-ads","source":"./"}]}
